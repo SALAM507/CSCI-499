@@ -87,5 +87,3 @@ Dressing appropriately for the weather is essential for comfort and practicality
 ## Conclusion
 This project aims to provide a smart and personalized clothing recommendation system leveraging AI and real-time data. Future work includes potential expansions such as incorporating fashion trends and social media integration.
 
-## Q&A Session
-Feel free to open an issue or start a discussion if you have any questions or suggestions!
